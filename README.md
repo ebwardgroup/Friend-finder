@@ -1,6 +1,6 @@
 # Friend-finder
 
-Amazon-like storefront using MySQL 
+A survey to help find the most compatible people a.k.a. friends.
 
 ## Overview
 This is a compatibility-based "Friend-Finder" application. 
